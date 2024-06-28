@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Dependencies
-      run: sudo apt-get install cmake g++-10
+      run: sudo apt-get install cmake g++-10 libgtest-dev
     - name: Configure Project
       run: cmake -S . -B build
     - name: Build Project

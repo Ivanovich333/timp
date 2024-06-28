@@ -1,11 +1,5 @@
 #include <iostream>
-
-class A {
-    public:
-    int foo(int a) {
-        return a*2;
-    }
-};
+#include "A.h"
 
 int main () {
     A a;

@@ -1,5 +1,0 @@
-/home/vboxuser/timp/build/CMakeFiles/main.dir
-/home/vboxuser/timp/build/CMakeFiles/test_foo.dir
-/home/vboxuser/timp/build/CMakeFiles/test.dir
-/home/vboxuser/timp/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/timp/build/CMakeFiles/rebuild_cache.dir

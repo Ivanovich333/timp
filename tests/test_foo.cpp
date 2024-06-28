@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../src/main.cpp"
+#include "../src/A.h"
 
 TEST(FooTest, ReturnsCorrectValue) {
     A a;
